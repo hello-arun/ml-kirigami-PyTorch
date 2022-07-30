@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PyTorch-Tutorial"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "~/Miniconda3/envs/pytorch-1.12.0/python",
+		"python.terminal.activateEnvironment": true,
+	}
+}
